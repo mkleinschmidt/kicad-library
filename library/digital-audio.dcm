@@ -35,6 +35,12 @@ K stereo audio adc
 F http://www.cirrus.com/en/pubs/proDatasheet/CS5361_F2.pdf
 $ENDCMP
 #
+$CMP CS5364
+D Audio ADC, 24 bits, 192 kHz, 114 dB, 4-Channel
+K 24bit Delta Sigma Audio ADC 4ch
+F http://www.cirrus.com/en/pubs/proDatasheet/CS5364_F5.pdf
+$ENDCMP
+#
 $CMP CS8406
 D 192 kHz Digital Audio Interface Transmitter (SOIC-28)
 K digital audio interface transmitter spdif
@@ -80,6 +86,11 @@ $CMP LM4811
 D Dual105mW Headphone Amplifier, Digital Volume Control, Shutdown Mode
 K headphone amplifier digital volume
 F http://www.ti.com/lit/ds/symlink/lm4811.pdf
+$ENDCMP
+#
+$CMP PCM4204
+D High Performance 24-Bit, 216kHz, 4-Channel Audio A/D Converter
+K 24bit Delta Sigma Audio ADC 4ch
 $ENDCMP
 #
 $CMP TLV320AIC23BPW
