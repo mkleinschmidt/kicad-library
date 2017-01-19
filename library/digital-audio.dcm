@@ -88,6 +88,12 @@ K headphone amplifier digital volume
 F http://www.ti.com/lit/ds/symlink/lm4811.pdf
 $ENDCMP
 #
+$CMP PCM4202
+D High Performance 24-Bit, 216kHz, 2-Channel Audio A/D Converter
+K 24bit Delta Sigma Audio ADC 2ch
+F http://www.ti.com/lit/ds/symlink/pcm4202.pdf
+$ENDCMP
+#
 $CMP PCM4204
 D High Performance 24-Bit, 216kHz, 4-Channel Audio A/D Converter
 K 24bit Delta Sigma Audio ADC 4ch
