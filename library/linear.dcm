@@ -921,6 +921,18 @@ K ampliop
 F analog-dev/op275.pdf
 $ENDCMP
 #
+$CMP OPA1632
+D High-Performance Fully-Differential Audio Operational Amplifier
+K diff amp
+F http://www.ti.com/lit/ds/symlink/opa1632.pdf
+$ENDCMP
+#
+$CMP OPA227
+D High Precision Low Noise Operational Amplifier
+K Low-Noise OPAMP
+F http://www.ti.com/lit/ds/symlink/opa227.pdf
+$ENDCMP
+#
 $CMP OPA2333D
 D Dual CMOS Operational Amplifiers, Zero-Drift Series, 1.8-V, microPower
 K ampliop
